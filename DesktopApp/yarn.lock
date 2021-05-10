@@ -761,6 +761,12 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
+"@ng-bootstrap/ng-bootstrap@^5.2.1":
+  version "5.3.1"
+  resolved "https://registry.yarnpkg.com/@ng-bootstrap/ng-bootstrap/-/ng-bootstrap-5.3.1.tgz#4cf2929583e9572475d1d0f3c905b05885a086bb"
+  dependencies:
+    tslib "^1.9.0"
+
 "@ngtools/webpack@8.3.15":
   version "8.3.15"
   resolved "https://registry.yarnpkg.com/@ngtools/webpack/-/webpack-8.3.15.tgz#1b523e56693bc459accc734a0d9b93f3e1d1b6b2"
@@ -1462,6 +1468,10 @@ bonjour@^3.5.0:
     dns-txt "^2.0.2"
     multicast-dns "^6.0.1"
     multicast-dns-service-types "^1.1.0"
+
+bootstrap@^4.4.1:
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.6.0.tgz#97b9f29ac98f98dfa43bf7468262d84392552fd7"
 
 brace-expansion@^1.1.7:
   version "1.1.11"
@@ -4056,8 +4066,8 @@ lodash.clonedeep@^4.5.0:
   resolved "https://registry.yarnpkg.com/lodash.clonedeep/-/lodash.clonedeep-4.5.0.tgz#e23f3f9c4f8fbdde872529c1071857a086e5ccef"
 
 lodash@^4.17.11, lodash@^4.17.13, lodash@^4.17.14, lodash@^4.17.15, lodash@^4.17.4, lodash@^4.17.5:
-  version "4.17.15"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.15.tgz#b447f6670a0455bbfeedd11392eff330ea097548"
+  version "4.17.21"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.21.tgz#679591c564c3bffaae8454cf0b3df370c3d6911c"
 
 log4js@^4.0.0:
   version "4.5.1"
